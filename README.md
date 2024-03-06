@@ -35,3 +35,5 @@ This will create an executable file named `output`.
 ./output
 ```
 
+Example main.clac, and output.asm can be found in /clac/.
+Note that if your output.asm is not updating, you may need to delete before cargo run.
